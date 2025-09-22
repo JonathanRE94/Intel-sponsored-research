@@ -1,14 +1,15 @@
+# Enhancing Flip-Chip Reliability with Liquid Gallium Solder Joints
 
-Research work on improving product reliability in advanced semiconductor packaging, by evaluating liquid gallium as a next-gen solder material for flip-chip assemblies.
+This repository contains Intel-sponsored research work investigating **liquid gallium** as an alternative solder material to SAC305 in flip-chip packaging. Using COMSOL Multiphysics, thermomechanical warpage and stress simulations were conducted over a temperature range of 30°C to 150°C.
 
-Achieved a 40.8% reduction in Von Mises stress and 2.84 × 10⁻⁴ mm reduction in warpage through COMSOL Multiphysics-based thermal and warpage simulations, comparing SAC305 with liquid gallium.
+# Motivation
+Conventional SAC305 solder joints suffer from reliability issues such as cracking under thermomechanical stress. Liquid gallium, modeled as an incompressible fluid, exhibits lower stress and reduced warpage.
 
-Discovered stress redistribution behavior, observing a shift in peak stress from the solder-silicon to the underfill-silicon interface, indicating better mechanical performance under thermal cycling.
+# Key Results
+- Max Von Mises Stress:** SAC305 = 121 N/mm² vs. Gallium = 71.6 N/mm²  
+- Warpage Reduction:** 2.84 × 10⁻⁴ mm with liquid gallium  
+- Plastic Strain:** Significantly lower for gallium joints  
+- Stress Distribution:** Gallium shows uniform stress and no localized plastic deformation  
 
-Completed the project within 9 weeks while handling full graduate coursework by self-learning COMSOL, researching gallium’s thermophysical properties, and performing fluid-structure modeling.
-
-Used SolidWorks for CAD design and integrated models into COMSOL to simulate chip-scale thermomechanical behavior under realistic loading conditions.
-
-Presented research at ASU’s Fulton Forge Research Expo (Spring 2025) to faculty and industry stakeholders, showcasing reliability improvements in Intel-sponsored packaging designs.
-
-Delivered weekly technical presentations to lab peers and faculty advisor, iteratively refining simulation accuracy based on feedback.
+# Acknowledgement
+This research was **funded by Intel** and carried out at **Arizona State University (ASU), Mechanical Engineering (SEMTE)** under the guidance of **Prof. Robert Wang**.
