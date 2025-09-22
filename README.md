@@ -1,5 +1,5 @@
 
-Led an Intel-sponsored research project on improving product reliability in advanced semiconductor packaging, by evaluating liquid gallium as a next-gen solder material for flip-chip assemblies.
+Intel-sponsored research project on improving product reliability in advanced semiconductor packaging, by evaluating liquid gallium as a next-gen solder material for flip-chip assemblies.
 
 Achieved a 40.8% reduction in Von Mises stress and 2.84 × 10⁻⁴ mm reduction in warpage through COMSOL Multiphysics-based thermal and warpage simulations, comparing SAC305 with liquid gallium.
 
