@@ -1,8 +1,3 @@
-# Intel-sponsored-research
-
-Research Aide – Semiconductor Packaging (Intel Sponsored)
-Arizona State University, Tempe, AZ
-Jan 2025 – May 2025
 
 Led an Intel-sponsored research project on improving product reliability in advanced semiconductor packaging, by evaluating liquid gallium as a next-gen solder material for flip-chip assemblies.
 
